@@ -22,7 +22,9 @@
 
 <h3>4. Visualização</h3>
 
-<p>Aqui foi gerado 2 gráficos. O primeiro gráfico de localização dos imóveis em cada bairro de SP, considerando a diferenças de tipos. O segundo é a comparação entre o modelo apresentado e os valores testes, demonstrando a acuidade do modelo. </p>
+<p>Aqui foi gerado 2 gráficos. O primeiro gráfico de localização dos imóveis em cada bairro de SP, considerando a diferenças de tipos. O segundo é a comparação entre o modelo apresentado e os valores testes, demonstrando a acuidade do modelo. 
+
+Importante ressaltar que o projeto também foi feito pensando em ser de fácil visualização e, por isso, foi feita uma versão em Power BI.</p>
 
 <h3>5. Resultado</h3>
 
@@ -31,6 +33,7 @@
 <h2>Tecnologia, Pacotes e Bibliotecas</h2>
 
 <li>Python</li>
+<li>Power BI<li>
 <li>Jupyter Notebook</li>
 <li>Pacotes e Bibliotecas</li>
 <ul>Requests</ul>
